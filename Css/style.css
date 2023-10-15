@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+}
+
+nav{
+    background-color: rgb(88, 9, 9);
+    padding: 25px;
+    text-align: left;
+}
+p{
+    color: black;
+    padding: 50px 160px;
+    font-size: 20px;
+
+}
